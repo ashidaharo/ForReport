@@ -1,0 +1,4 @@
+foo
+AbcdefghijklmnopqrstuvwxyzAbcdefghijklmnopqrstuvwxyzAbcdefghijklmn
+-あいうえおかきくけこさしすせそたちつてと
+AbcdefghijklmnopqrstuvwxyzAbcdefghijklmnopqrstuvwxyzAbcdefghijklmn
